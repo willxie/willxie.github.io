@@ -1,0 +1,99 @@
+@import url("https://www.weber.edu/prebuilt/importfonts.css");
+
+p
+{
+    font-family: "Adobe Caslon Pro", "Hoefler Text", Georgia, Garamond, Times, serif;
+//    font-size: 15px;
+//    line-height: 25px;
+}
+
+body
+{
+    margin-left:auto;
+    margin-right:auto;
+    width:600px;
+    font-family: Helvetica,sans-serif;
+    font-size: 12pt;
+}
+
+h2
+{
+    font-family: 'tradegothicltcom-bd2', sans-serif;
+}
+
+dl dt
+{
+    font-family: Helvetica, sans-serif;
+//    font-family: "Adobe Caslon Pro", "Hoefler Text", Georgia, Garamond, Times, serif;
+//    font-weight:bold;
+    font-size:18px;
+}
+
+/* unvisited link */
+a:link {
+    color: #FF6600;
+    text-decoration: none;
+}
+
+/* visited link */
+a:visited {
+    color: #FF6600;
+    text-decoration: none;
+}
+
+/* mouse over link */
+a:hover {
+    color: 	#FF6600;
+    text-decoration: underline;
+}
+
+/* selected link */
+a:active {
+    color: 	#FF6600;
+    text-decoration: underline;
+}
+
+#info
+{
+    width:350px;
+    float:right;
+}
+
+#portrait
+{
+
+    float:left;
+}
+
+#about-me
+{
+    float:left;
+}
+
+.navigation
+{
+    font-family: Helvetica, sans-serif;
+}
+
+.paper-title
+{
+    color: #903;
+}
+
+
+.paper-title a
+{
+    color: #118C4E;
+}
+
+/*
+dl dt {
+    background:#5f9be3;
+    color:#fff;
+    float:left;
+    font-weight:bold;
+    margin-right:10px;
+    padding:5px;
+    width:100px;
+}
+*/
